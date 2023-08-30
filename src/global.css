@@ -1,0 +1,18 @@
+:root {
+    --black: #0a0908;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-image: url("./assets/img/bg-universe.png");
+    background-color: var(--black);
+}

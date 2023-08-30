@@ -1,9 +1,11 @@
 import React from 'react'
+import { Header } from './assets/Components/Header'
+import './global.css'
 
 export function App() {
   return (
     <>
-      <h1>Ola</h1>
+      <Header />
     </>
   )
 }
